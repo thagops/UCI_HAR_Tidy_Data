@@ -31,3 +31,25 @@ The Tidying up process goes as follows:
     5. The Variable Names are changed to give meaning to the abbreviations.
 
 Finally the tidied data is written to a CSV file.
+
+Variable Information
+
+The description of the variable is as follows:
+
+    tBodyAcc -> time.body.accelerometer
+    tGravityAcc -> time.gravity.accelerometer
+    tBodyAccJerk -> time.body.accelerometer.jerk
+    tBodyGyro -> time.body.gyroscope
+    tBodyGyroJerk -> time.body.gyroscope.jerk
+    tBodyAccMag -> time.body.accelerometer.magnitude
+    tGravityAccMag -> time.gravity.accelerometer.magnitude
+    tBodyAccJerkMag -> time.body.accelerometer.jerk.magnitude
+    tBodyGyroMag -> time.body.gyroscope.magnitude
+    tBodyGyroJerkMag -> time.body.gyroscope.jerk.magnitude
+    fBodyAcc -> frequency.body.accelerometer
+    fBodyAccJerk -> frequency.body.accelerometer.jerk
+    fBodyGyro -> frequency.body.gyroscope
+    fBodyAccMag -> frequency.body.accelerometer.magnitude
+    fBodyAccJerkMag -> frequency.body.accelerometer.jerk.magnitude
+    fBodyGyroMag -> frequency.body.gyroscope.magnitude
+    fBodyGyroJerkMag -> frequency.body.gyroscope.jerk.magnitude
